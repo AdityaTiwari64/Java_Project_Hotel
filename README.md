@@ -1,4 +1,4 @@
-# Hotel Management System - Premium Edition
+# Hotel Management System 
 
 ## Project Overview
 
