@@ -243,15 +243,19 @@ The Hotel Management System is a comprehensive desktop application designed to s
    - Verify dates are stored in correct format
    - Confirm prices match room types
 
-## Screenshots (Optional)
+## Screenshots 
 
-*Recommended screenshots to include:*
 1. Main Dashboard showing statistics
+![dashboard](https://github.com/user-attachments/assets/72a35d3d-ebf6-43cc-a818-ea9d7ae5ff63)
 2. New Reservation tab with room selection grid
-3. All Reservations table view
-4. Room Status Dashboard with color coding
-5. Manage Booking interface
-6. Sample reservation confirmation dialog
+![hotelres](https://github.com/user-attachments/assets/5270fe47-0b54-4c2e-a331-d996fb1e5657)
+3. Room Status Dashboard with color coding
+![status](https://github.com/user-attachments/assets/1b8de46d-490e-4e71-8075-aa62f7adb227)
+4. Manage Booking interface
+![booking](https://github.com/user-attachments/assets/7732f550-7005-4df1-bea8-371d63cb209f)
+5. Database View
+![database](https://github.com/user-attachments/assets/7a163ed2-f52f-407e-ad4d-5d39a12a10a9)
+
 
 ## Troubleshooting
 
