@@ -677,7 +677,7 @@ public class HotelReservationSystem extends JFrame {
         JLabel versionInfo = new JLabel("Version: 2.0 Premium Edition");
         versionInfo.setFont(new Font("Segoe UI", Font.PLAIN, 16));
         versionInfo.setAlignmentX(Component.CENTER_ALIGNMENT);
-        JLabel authorInfo = new JLabel("Author: ANSH ANIL YADAV");
+        JLabel authorInfo = new JLabel("Author: Aditya Anil Tiwari");
         authorInfo.setFont(new Font("Segoe UI", Font.BOLD, 18));
         authorInfo.setForeground(PRIMARY_COLOR);
         authorInfo.setAlignmentX(Component.CENTER_ALIGNMENT);
